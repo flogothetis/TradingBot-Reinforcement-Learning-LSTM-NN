@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ShortTermStockTradingBot.iml" filepath="$PROJECT_DIR$/.idea/ShortTermStockTradingBot.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/q-trader-master/.idea/q-trader-master.iml" filepath="$USER_HOME$/Desktop/q-trader-master/.idea/q-trader-master.iml" />
+    </modules>
+  </component>
+</project>
